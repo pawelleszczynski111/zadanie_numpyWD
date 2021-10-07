@@ -1,0 +1,42 @@
+# zad1
+# def funkcja1 (imie, nazwisko):
+#     a=imie[0]
+#     b=nazwisko[0]
+#     print(a,'.',b)
+# a=funkcja1('pawel','leszczynski')
+# print('rozwiazanie zadania pierwszego: ',a)
+
+# zad2
+# def funkcja2 (imie, nazwisko):
+#     a=imie[0]
+#     b=nazwisko
+#     print(a.capitalize(),'.',b.capitalize())
+# a=funkcja2('pawel','leszczynski')
+# print('rozwiazanie zadania drugiego: ',a)
+
+# zad3
+# def funkcja3 (cyfr1,cyfr2,wiek):
+#     c=str(cyfr1)+str(cyfr2)
+#     c=int(c)
+#     rok=c-wiek
+#     print('rok urodzenia: ',rok)
+# a=funkcja3(20,21,23)
+# print(a)
+
+# zad5
+# def funkcja5(arg1,arg2):
+#     if (arg1>=0) and (arg2>0):
+#         a=arg1/arg2
+#         print('wynik dzielenia: ',a)
+#     else: print('nieprawid³owe dane')
+# a=funkcja5(4,2)
+# print(a)
+
+# zad6
+# i=0
+# while i!=100:
+#     a=input('wprowadz liczbe')
+#     i=i+int(a)
+#     print('aktualna wartosc i: ',i)
+
+# zad7
