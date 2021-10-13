@@ -30,6 +30,14 @@ public class po2 {
 //            sum = sum + abs(i);
 //        }
 //        System.out.println("wartosc: " + sum);
+//        d)
+        System.out.println("podaj n");
+        double n=in.nextDouble();
+        double i, sum = 0;
+        for (i = 0; i <= n; i++) {
+            sum=sum+Math.sqrt(n);
+        }
+        System.out.println("wartosc: " + sum);
 
     }
 }
